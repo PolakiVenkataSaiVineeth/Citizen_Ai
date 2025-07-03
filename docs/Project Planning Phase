@@ -1,0 +1,53 @@
+📅 Project Planning Phase
+
+Development Timeline
+
+📅 3. Project Planning Phase
+
+Development Timeline
+
+Phase
+
+Milestone
+
+Day 1–2
+
+Ideation and team allocation
+
+Day 3–5
+
+Requirement gathering & finalization
+
+Week 1
+
+Backend and AI module development
+
+Week 2
+
+Frontend development + Integration
+
+Week 3
+
+Testing, documentation, and final deployment
+
+Documentation and final deployment
+
+Team Roles
+
+AI Engineer: NLP, chatbot integration
+
+Frontend Developer: UI/UX and layout
+
+Backend Developer: API and logic implementation
+
+Quality Assurance (QA): Testing and validation
+
+Project Coordinator: Task distribution and progress tracking
+
+Risk Assessment
+
+Dataset Delay: Resolved using pre-trained models
+
+Integration Conflicts: Addressed through weekly syncs
+
+Environment Issues: Managed using .env and venv.

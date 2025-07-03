@@ -1,0 +1,33 @@
+🛠️ 4. Project Design Phase
+
+Architecture Overview
+
+Based on a Client-Server model
+
+Utilizes the MVC architecture for better maintainability
+
+Frontend communicates with backend via API layer
+
+Core Modules
+
+Frontend: Dynamic UI, input validation, chatbot interface
+
+Backend: Handles routes, processes input, and triggers AI
+
+AI Engine: Performs NLP tasks like intent recognition
+
+Data Module: Stores queries, responses, and user history
+
+Utilities: Helper functions for preprocessing and model loading
+
+Data Flow Diagram
+
+User Input → Frontend → API Layer → AI Model → Response → UI Display
+
+User Experience (UX) Highlights
+
+Streamlined interface with minimal steps
+
+Language selection for inclusive access
+
+Contextual tooltips for ease of understanding.
