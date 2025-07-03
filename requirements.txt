@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+textblob
+vaderSentiment
+python-dotenv
+requests
+pandas
+matplotlib
+seaborn
+google-generativeai

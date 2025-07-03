@@ -1,0 +1,20 @@
+[
+  {
+    "id": "f9bd4b5b-c2bc-470e-9570-550bb1e9a83c",
+    "text": "this product is good .",
+    "category": "General",
+    "user_id": null,
+    "sentiment": "positive",
+    "score": 0.51828,
+    "timestamp": "2025-07-03T10:38:20.810697"
+  },
+  {
+    "id": "c8adcc31-0684-4346-b43b-a4bb258f4ab6",
+    "text": "this product is horrible.",
+    "category": "General",
+    "user_id": null,
+    "sentiment": "negative",
+    "score": -0.67961,
+    "timestamp": "2025-07-03T10:39:21.501887"
+  }
+]
